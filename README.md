@@ -35,3 +35,7 @@
 ![#FADFAE]() `#FADFAE - Sarcoline, "flesh coloured"` - RF  
 ![#FEF6CC]() `#FEF6CC - Eburnean, like ivory` - RF  
 ![#FEGY58]() `#FEF6CC - Eburnean, like ivory` - SH
+## Grays
+![#929292]() `#929292 - gray, like a shadow` - RF
+![#8C8C8C]() `#8C8C8C - gray, like a shadow` - RF
+![#8C8C8C]() `#8C8C8C - gray, like a shadow` - RF
